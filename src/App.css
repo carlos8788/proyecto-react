@@ -1,0 +1,12 @@
+/* .p-row-odd{
+    background-color: rgb(236, 236, 236);
+    color: rgb(0, 0, 0);
+}
+
+.p-datatable-thead>tr .p-sortable-column{
+    background-color: rgb(119, 253, 119) ;
+    color: rgb(0, 0, 0);
+} */
+
+/* Estilo para Light Mode */
+/* Asegurarse de que los elementos li hereden el color de text-light en modo oscuro */
